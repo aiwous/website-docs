@@ -14,7 +14,7 @@ Thank you for playing on Akatsuki! By participating in our community, you agree 
 - Do not discuss cheating or other servers. Discussions involving the breaking of any US or international law will result in an immediate ban and, if necessary, a report to relevant authorities.
 - Occasionally sending links to your Youtube/Twitch when you’re streaming or creating content for Akatsuki is fine, but do not spam or flood links on our Discord or on in-game public chats.
 - Do not use NSFW and/or offensive avatars/userpage content, this includes photosensitive, jumpscare, or otherwise overly loud content that may be harmful to some users.
-- Do not advertise your servers (osu, discord, teamspeak, etc.), services, or products in public chats or direct messages.
+- Do not advertise messaging channels/your server (Telegram, Discord, etc.) anywhere on our platform. Users caught sending unsolicited invitations to these platforms will be subject to punishment up to and including permanent restriction.
 - Do not impersonate any user, especially staff. This is enforced quite heavily.
 - Do not cause unneeded drama. Use the appropriate channels to report rule breaking, hackusating in public channels is not allowed. Complaining about a user’s ban in public channels is also disallowed.
 - Purchasing anything from Akatsuki does not mean that you are immune from the rules.
